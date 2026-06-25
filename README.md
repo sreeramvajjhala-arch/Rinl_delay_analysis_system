@@ -6,7 +6,7 @@
 
 This is a simple, professional, ready-to-run Python Streamlit application developed for delay analysis, shop-wise monitoring, equipment-wise delay tracking, agency-wise delay analysis, conveyor delay analysis, monsoon delay study, and predictive maintenance risk identification.
 
-The project is designed as a rapid prototype suitable for a B.Tech CSE internship demonstration at **RINL Visakhapatnam Steel Plant**.
+The project is designed as a prototype suitable for a B.Tech CSE internship demonstration at **RINL Visakhapatnam Steel Plant**.
 
 ---
 
